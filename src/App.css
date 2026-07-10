@@ -99,7 +99,7 @@
   font-size: 1rem;
   border: 2px solid var(--border-color);
   border-radius: 50px;
-  background: rgb(103, 30, 30);
+  background: rgb(34, 181, 105);
   transition: all 0.3s ease;
   box-shadow: var(--shadow);
 }
