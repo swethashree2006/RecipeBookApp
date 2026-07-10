@@ -107,7 +107,7 @@
 .search-input:focus {
   outline: none;
   border-color: var(--primary-color);
-  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+  box-shadow: 0 0 0 3px rgba(9, 198, 103, 0.1);
 }
 
 .search-icon {
